@@ -57,15 +57,14 @@ h1{
 }
 
 .cards{
-    margin: 20px;
-    padding: 10px;
-    width: 266px;
-    height: 338px;
+    margin-right: 20px;
+    padding: 20px;
+    width: 206px;
+    height: 358px;
     border: 1px solid #F5F5F5;
     transition: 0.5s;
     padding-top: 0px;
-    margin-top: 75px;
-    margin-bottom: 0px;
+    margin-bottom: 25px;
 
 }
 
@@ -86,9 +85,9 @@ h1{
 }
 
 .visualizar:hover{
-    -moz-transform: scale(1.5);
-	-webkit-transform: scale(1.5);
-	transform: scale(1.5); 
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1); 
 }
 
 .descricao{
@@ -264,3 +263,13 @@ input:focus{
     font-weight: 400;
 }
 
+.vitrine{
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+.menuLateral{
+    margin-right: 90px;
+    margin-top: 90px;
+}
